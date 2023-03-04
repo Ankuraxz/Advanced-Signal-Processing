@@ -1,5 +1,7 @@
 # Pneumonia Detection
 
+Pneumonia is a respiratory disease that causes inflammation in the lungs, leading to coughing, fever, and difficulty in breathing. Diagnosis of pneumonia often requires medical imaging, and chest X-rays are the most commonly used imaging modality. Deep Learning and Image Analysis have shown promising results in automating the detection of pneumonia from chest X-rays. In this paper, we present a deep learning approach to automatically detect pneumonia from chest X-rays. We trained a convolutional neural network (CNN) model on a large dataset of chest X-ray images to classify the images into two categories: normal and pneumonia. In addition to the deep learning approach, we also explored the use of image processing techniques such as Contrast Limited Adaptive Histogram Equalization (CLAHE), Gamma Corrections, and Image Sharpening. We implemented these techniques on the chest X-ray images to enhance the contrast, improve the image quality, and increase the visibility of the pneumonia regions. Our model achieved high accuracy, sensitivity, and specificity in detecting pneumonia from chest X-rays. Our results show that deep learning-based approaches can be effective in automating the diagnosis of pneumonia from chest X-rays, which can help in the timely and accurate diagnosis of the disease. 
+
 ## References 
 
 ### Gamma Correction
