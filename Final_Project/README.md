@@ -29,3 +29,20 @@ journal = {Scientific Research and Essays}
   pages={1-4},
   doi={10.1109/BMEiCON.2017.8229130}}
 ```
+
+### CLAHE
+```
+@article{MARYSHYNI2022100054,
+title = {A comparative study of X-ray and CT images in COVID-19 detection using image processing and deep learning techniques},
+journal = {Computer Methods and Programs in Biomedicine Update},
+volume = {2},
+pages = {100054},
+year = {2022},
+issn = {2666-9900},
+doi = {https://doi.org/10.1016/j.cmpbup.2022.100054},
+url = {https://www.sciencedirect.com/science/article/pii/S2666990022000064},
+author = {H. {Mary Shyni} and E. Chitra},
+keywords = {COVID-19 detection, Image processing, Data Augmentation, Deep Learning, CNN, X-ray images, CT images},
+abstract = {The deadly coronavirus has not just devastated the lives of millions but has put the entire healthcare system under tremendous pressure. Early diagnosis of COVID-19 plays a significant role in isolating the positive cases and preventing the further spread of the disease. The medical images along with deep learning models provided faster and more accurate results in the detection of COVID-19. This article extensively reviews the recent deep learning techniques for COVID-19 diagnosis. The research articles discussed reveal that Convolutional Neural Network (CNN) is the most popular deep learning algorithm in detecting COVID-19 from medical images. An overview of the necessity of pre-processing the medical images, transfer learning and data augmentation techniques to deal with data scarcity problems, use of pre-trained models to save time and the role of medical images in the automatic detection of COVID-19 are summarized. This article also provides a sensible outlook for the young researchers to develop highly effective CNN models coupled with medical images in the early detection of the disease.}
+}
+```
