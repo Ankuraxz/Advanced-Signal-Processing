@@ -46,3 +46,20 @@ keywords = {COVID-19 detection, Image processing, Data Augmentation, Deep Learni
 abstract = {The deadly coronavirus has not just devastated the lives of millions but has put the entire healthcare system under tremendous pressure. Early diagnosis of COVID-19 plays a significant role in isolating the positive cases and preventing the further spread of the disease. The medical images along with deep learning models provided faster and more accurate results in the detection of COVID-19. This article extensively reviews the recent deep learning techniques for COVID-19 diagnosis. The research articles discussed reveal that Convolutional Neural Network (CNN) is the most popular deep learning algorithm in detecting COVID-19 from medical images. An overview of the necessity of pre-processing the medical images, transfer learning and data augmentation techniques to deal with data scarcity problems, use of pre-trained models to save time and the role of medical images in the automatic detection of COVID-19 are summarized. This article also provides a sensible outlook for the young researchers to develop highly effective CNN models coupled with medical images in the early detection of the disease.}
 }
 ```
+
+### VANILA NN
+```
+@article{BHARATI2020100391,
+title = {Hybrid deep learning for detecting lung diseases from X-ray images},
+journal = {Informatics in Medicine Unlocked},
+volume = {20},
+pages = {100391},
+year = {2020},
+issn = {2352-9148},
+doi = {https://doi.org/10.1016/j.imu.2020.100391},
+url = {https://www.sciencedirect.com/science/article/pii/S2352914820300290},
+author = {Subrato Bharati and Prajoy Podder and M. Rubaiyat Hossain Mondal},
+keywords = {Capsule network, CNN, COVID-19, Vanilla NN, VDSNet, VGG},
+abstract = {Lung disease is common throughout the world. These include chronic obstructive pulmonary disease, pneumonia, asthma, tuberculosis, fibrosis, etc. Timely diagnosis of lung disease is essential. Many image processing and machine learning models have been developed for this purpose. Different forms of existing deep learning techniques including convolutional neural network (CNN), vanilla neural network, visual geometry group based neural network (VGG), and capsule network are applied for lung disease prediction. The basic CNN has poor performance for rotated, tilted, or other abnormal image orientation. Therefore, we propose a new hybrid deep learning framework by combining VGG, data augmentation and spatial transformer network (STN) with CNN. This new hybrid method is termed here as VGG Data STN with CNN (VDSNet). As implementation tools, Jupyter Notebook, Tensorflow, and Keras are used. The new model is applied to NIH chest X-ray image dataset collected from Kaggle repository. Full and sample versions of the dataset are considered. For both full and sample datasets, VDSNet outperforms existing methods in terms of a number of metrics including precision, recall, F0.5 score and validation accuracy. For the case of full dataset, VDSNet exhibits a validation accuracy of 73%, while vanilla gray, vanilla RGB, hybrid CNN and VGG, and modified capsule network have accuracy values of 67.8%, 69%, 69.5% and 63.8%, respectively. When sample dataset rather than full dataset is used, VDSNet requires much lower training time at the expense of a slightly lower validation accuracy. Hence, the proposed VDSNet framework will simplify the detection of lung disease for experts as well as for doctors.}
+}
+```
